@@ -1,0 +1,54 @@
+body {
+    background: linear-gradient(135deg, #05073a, #dc0606ca);
+}
+
+.main {
+    padding: 22px;
+}
+
+.form h1 {
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.form label {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.form input {
+    font-size: 16px;
+    width: 99%;
+    height: 30px;
+}
+
+.table1 {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid white;
+    width: 50%;
+}
+
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(135deg, #EF0C0C,#CD5C5C);
+    width: 90%;
+}
+
+td {
+    border: solid 1px white;
+}
+
+th {
+    background-color: rgb(180, 180, 180);
+}
+
+.submitbtn {
+    background: linear-gradient(135deg, #05073a, #EF0C0C);;
+    color: white;
+    width: 100%;
+    border: 1px solid white;
+}
